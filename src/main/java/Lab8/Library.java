@@ -5,7 +5,7 @@ package Lab8;
 
 public class Library {
 	public static void main(String[] arg) {
-		System.out.println("Yankees.");
+		System.out.println("RedSox!");
 	}
     public boolean someLibraryMethod() {
         return true;
